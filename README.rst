@@ -1,5 +1,6 @@
 Fedora Messaging
 ================
+testpush
 
 .. image:: https://img.shields.io/pypi/v/fedora-messaging.svg
     :target: https://pypi.org/project/fedora-messaging/
